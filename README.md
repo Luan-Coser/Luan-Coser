@@ -1,6 +1,6 @@
-## Hi there 👋
+## Helo World 👋
 
-Sou **Luan Henrique Coser Santos**, estudante de **Ciência da Computação** no **IFSC** (6ª fase) e desenvolvedor **C# back-end**. Trabalho com **.NET, MVC** e tenho experiência na construção de sistemas web e desktop.
+Sou **Luan Henrique Coser Santos**, estudante de **Ciência da Computação** no **IFSC** (6ª fase) e desenvolvedor **C# back-end**.
 
 ### 🚀 Tecnologias e Ferramentas  
 - 💻 **Linguagens**: C#, JavaScript  
