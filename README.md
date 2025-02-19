@@ -3,10 +3,10 @@
 Sou **Luan Henrique Coser Santos**, estudante de **Ciência da Computação** no **IFSC** (6ª fase) e desenvolvedor **C# back-end**.
 
 ### 🚀 Tecnologias e Ferramentas  
-- 💻 **Linguagens**: C#, JavaScript  
+- 💻 **Linguagens**: C#, Java  
 - 🌐 **Frameworks**: .NET, ASP.NET MVC  
 - 🗄️ **Banco de Dados**: SQL Server, MySQL  
-- 🔧 **Ferramentas**: Git, Docker, WSL  
+- 🔧 **Ferramentas**: Git, Docker  
 
 ### 📫 Entre em contato  
 <div>
